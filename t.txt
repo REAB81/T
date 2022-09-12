@@ -1,0 +1,48 @@
+init
+add sheep 1 Dolly 05/01/24 24
+add sheep 2 Rosette 03/06/03 20
+add sheep 3 Chex 12/07/12 25
+add sheep 4 Dutch 09/10/11 33
+add sheep 5 Margaret 12/11/12 20
+add sheepcote 1 2
+add sheepcote 2 4
+add sheepcote 3 2
+add shepherd John
+add shepherd Marry
+add shepherd Jade
+today 12/12/05
+start
+assign Jade 1
+assign Marry 1
+assign John 3
+move 1 1
+move 2 1
+move 3 3
+move 4 3
+move 5 2
+add forage 100 1
+add forage 100 2
+add forage 100 3
+feed
+add forage 100 3
+elapse day
+info sheepcote 3
+info sheep 5
+end
+
+
+
+
+
+
+
+
+
+3
+3
+hello Andras im erfan big fan of you from Iran
+andras Bassani migholi
+andrAS how are you today message by arash
+anDRas fan
+arash erfan
+andras
